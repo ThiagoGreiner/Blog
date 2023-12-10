@@ -13,6 +13,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 💻 Projeto
-
-Blog é um projeto que visa a utilização do html semântico.
-Um projeto basico mas que permite ainda muitas atualizações
+<p>Blog é um projeto que visa a utilização do html semântico.</p>
+<p>Um projeto basico mas que permite ainda muitas atualizações.</p>
